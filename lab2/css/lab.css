@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  font-weight: 500;
+}
+
+p {
+  width: 50%;
+  color: blue;
+}
+
+img {
+  float: right;
+}
+
+#content {
+  background-color: green;
+}
