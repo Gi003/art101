@@ -1,0 +1,24 @@
+#parent {
+  display: flex;
+  flex-direction: row;
+}
+
+#child {
+  flex: 1;
+}
+
+#child1 {
+  flex: 1;
+}
+
+img {
+  width: 90%;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
