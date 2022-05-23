@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+#parent {
+  display: flex;
+}
+
+#child {
+  flex: 1;
+  margin: 0px 50px 0 50px;
+}
+
+}
+
+h3, h2 {
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 75px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+}
